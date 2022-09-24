@@ -1,0 +1,1 @@
+print("The dog is cute")
